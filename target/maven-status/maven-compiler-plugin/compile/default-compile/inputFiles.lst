@@ -1,0 +1,9 @@
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/controller/LoginController.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/repository/UserRepository.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/configuration/SecurityConfiguration.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/LoginApplication.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/repository/RoleRepository.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/model/Role.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/model/User.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/configuration/WebMvcConfig.java
+/home/azzam/Desktop/Security/Login System/src/main/java/com/gpch/login/service/UserService.java
